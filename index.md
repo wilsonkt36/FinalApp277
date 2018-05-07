@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+#Final App - Weightlifting
+For my final project I created a simple yet useful application geared towards people who like to workout and may want a rudimentary program that allows them to record their progress in a text file as they see fit. The input doesn't require any specific format mostly because what one person would want to record can be very different from the next.
 
-You can use the [editor on GitHub](https://github.com/wilsonkt36/FinalApp277/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The app also has a built in one rep max calculator, which takes the weight and amount of reps from a maximum effort set and uses a formula to predict what the most amount of weight you could lift is.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wilsonkt36/FinalApp277/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Then, finally, you can view the text file in the app without having to find the text file using the third function of the app.
